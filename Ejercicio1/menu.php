@@ -2,9 +2,9 @@
     <div class="container">
       <nav class="navbar navbar-expand-lg bg-light sticky-top">
         <div class="container-fluid">
-          <a class="navbar-brand" href="../Controlador/clienteCajero.php">
+          <a class="navbar-brand"  href="<?php echo $nivel;?>index.php">
             
-          <img src="./img/1.png" alt="" width="50px">
+          <img src="<?php echo $nivel;?>img/1.png" alt="" width="50px">
           FCPN
           </a>
           <button
