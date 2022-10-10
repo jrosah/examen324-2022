@@ -90,10 +90,7 @@ require_once "conexion.inc.php";
                         <th scope="col">CBA</th>
                         <th scope="col">ORU</th>
                         <th scope="col">PT</th>
-                        <th scope="col">TJ</th>
                         <th scope="col">SCZ</th>
-                        <th scope="col">BE</th>
-                        <th scope="col">PND</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -106,10 +103,7 @@ require_once "conexion.inc.php";
                     AVG(case when departamento ='03' then nota_final end) as CBA,
                     AVG(case when departamento ='04' then nota_final end) as ORU,
                     avg(case when departamento ='05' then nota_final end) as PT,
-                    AVG(case when departamento ='06' then nota_final end) as TJ,
-                    AVG(case when departamento ='07' then nota_final end) as SCZ,
-                    AVG(case when departamento ='08' then nota_final end) as BE,
-                     AVG(case when departamento ='09' then nota_final end) as PND
+                    AVG(case when departamento ='07' then nota_final end) as SCZ
                                     FROM PERSONA xp
                                     JOIN INSCRIPCION xi ON xp.ci = xi.ciEstudiante
                  ";
@@ -130,10 +124,7 @@ require_once "conexion.inc.php";
                             <td><?php echo $filas['CBA'] ?></td>
                             <td><?php echo $filas['ORU'] ?></td>
                             <td><?php echo $filas['PT'] ?></td>
-                            <td><?php echo $filas['TJ'] ?></td>
                             <td><?php echo $filas['SCZ'] ?></td>
-                            <td><?php echo $filas['BE'] ?></td>
-                            <td><?php echo $filas['PND'] ?></td>
                         </tr>
                     <?php
                     }
