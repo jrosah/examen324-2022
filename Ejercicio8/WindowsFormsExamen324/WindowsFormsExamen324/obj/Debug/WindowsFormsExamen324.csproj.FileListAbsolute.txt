@@ -1,0 +1,10 @@
+C:\Users\Jorge\Desktop\II-2022\INF324\New folder\WindowsFormsExamen324\WindowsFormsExamen324\bin\Debug\WindowsFormsExamen324.exe.config
+C:\Users\Jorge\Desktop\II-2022\INF324\New folder\WindowsFormsExamen324\WindowsFormsExamen324\bin\Debug\WindowsFormsExamen324.exe
+C:\Users\Jorge\Desktop\II-2022\INF324\New folder\WindowsFormsExamen324\WindowsFormsExamen324\bin\Debug\WindowsFormsExamen324.pdb
+C:\Users\Jorge\Desktop\II-2022\INF324\New folder\WindowsFormsExamen324\WindowsFormsExamen324\obj\Debug\WindowsFormsExamen324.csprojAssemblyReference.cache
+C:\Users\Jorge\Desktop\II-2022\INF324\New folder\WindowsFormsExamen324\WindowsFormsExamen324\obj\Debug\WindowsFormsExamen324.Form1.resources
+C:\Users\Jorge\Desktop\II-2022\INF324\New folder\WindowsFormsExamen324\WindowsFormsExamen324\obj\Debug\WindowsFormsExamen324.Properties.Resources.resources
+C:\Users\Jorge\Desktop\II-2022\INF324\New folder\WindowsFormsExamen324\WindowsFormsExamen324\obj\Debug\WindowsFormsExamen324.csproj.GenerateResource.cache
+C:\Users\Jorge\Desktop\II-2022\INF324\New folder\WindowsFormsExamen324\WindowsFormsExamen324\obj\Debug\WindowsFormsExamen324.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\II-2022\INF324\New folder\WindowsFormsExamen324\WindowsFormsExamen324\obj\Debug\WindowsFormsExamen324.exe
+C:\Users\Jorge\Desktop\II-2022\INF324\New folder\WindowsFormsExamen324\WindowsFormsExamen324\obj\Debug\WindowsFormsExamen324.pdb
